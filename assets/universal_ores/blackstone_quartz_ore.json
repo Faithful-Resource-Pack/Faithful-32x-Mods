@@ -1,7 +1,0 @@
-{
-	"parent": "minecraft:block/cube_column",
-	"textures": {
-		"end": "universal_ores:block/blackstone_quartz_ore_top",
-		"side": "universal_ores:block/blackstone_quartz_ore_side"
-	}
-}
