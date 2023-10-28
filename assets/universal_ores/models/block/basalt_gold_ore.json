@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/cube_column",
+	"textures": {
+		"end": "universal_ores:block/basalt_gold_ore_top",
+		"side": "universal_ores:block/basalt_gold_ore_side"
+	}
+}
