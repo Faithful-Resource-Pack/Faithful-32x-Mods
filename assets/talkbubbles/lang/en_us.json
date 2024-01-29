@@ -1,0 +1,14 @@
+{
+    "text.autoconfig.talkbubbles.title": "Talk Bubbles Config",
+    "text.autoconfig.talkbubbles.option.chatColor": "Chat Color",
+    "text.autoconfig.talkbubbles.option.chatTime": "Chat Time",
+    "text.autoconfig.talkbubbles.option.backgroundOpacity": "Background Opacity",
+    "text.autoconfig.talkbubbles.option.maxChatWidth": "Chat Width",
+    "text.autoconfig.talkbubbles.option.chatHeight": "Chat Height",
+    "text.autoconfig.talkbubbles.option.chatRange": "Chat Range",
+    "text.autoconfig.talkbubbles.option.backgroundRed": "Background Red",
+    "text.autoconfig.talkbubbles.option.backgroundGreen": "Background Green",
+    "text.autoconfig.talkbubbles.option.backgroundBlue": "Background Blue",
+    "text.autoconfig.talkbubbles.option.showOwnBubble": "Show Own Bubble",
+    "text.autoconfig.talkbubbles.option.maxUUIDWordCheck": "Max UUID Word Check"
+}

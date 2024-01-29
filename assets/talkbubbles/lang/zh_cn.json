@@ -1,0 +1,13 @@
+{
+    "text.autoconfig.talkbubbles.title": "Talk Bubbles配置",
+    "text.autoconfig.talkbubbles.option.chatColor": "聊天颜色",
+    "text.autoconfig.talkbubbles.option.chatTime": "聊天时间",
+    "text.autoconfig.talkbubbles.option.backgroundOpacity": "背景不透明度",
+    "text.autoconfig.talkbubbles.option.maxChatWidth": "聊天宽度",
+    "text.autoconfig.talkbubbles.option.chatHeight": "聊天高度",
+    "text.autoconfig.talkbubbles.option.chatRange": "聊天范围",
+    "text.autoconfig.talkbubbles.option.backgroundRed": "背景红度",
+    "text.autoconfig.talkbubbles.option.backgroundGreen": "背景绿度",
+    "text.autoconfig.talkbubbles.option.backgroundBlue": "背景蓝度",
+    "text.autoconfig.talkbubbles.option.showOwnBubble": "显示自己的气泡"
+}
