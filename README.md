@@ -11,7 +11,10 @@
 ---
 
 ## How to download:
-Select the desired Minecraft version using the dropdown above, then press the big green Code button and select Download ZIP.  
+Select the desired Minecraft version using the dropdown above, then press the big green Code button and select Download ZIP.
+
+**Note that you will have the extract the folder out of the zip to your `resourcepacks` folder to install due to how GitHub zips branches.**
+
 <img src="https://user-images.githubusercontent.com/75297863/163904169-6ab97237-946c-4cf2-be60-3909a464d308.png" align="center" height="256px">  
 A Vanilla Tweaks-style mod picker for easier and smaller downloads is planned for our future site rewrite.
 
